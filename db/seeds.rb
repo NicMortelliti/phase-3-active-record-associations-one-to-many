@@ -1,4 +1,3 @@
-#! Need to fix the emoji
 puts "🌱 Seeding data..."
 
 # run a loop 50 times
